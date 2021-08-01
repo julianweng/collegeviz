@@ -1,0 +1,7 @@
+authtoken: token
+tunnels:
+  web:
+    proto: http
+    addr: 8501
+    bind-tls: true
+    hostname: college.ngrok.io
