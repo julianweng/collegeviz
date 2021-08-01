@@ -1,4 +1,4 @@
-authtoken: token
+authtoken: tokenhere
 tunnels:
   web:
     proto: http
